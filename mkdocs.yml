@@ -1,0 +1,24 @@
+site_name: Global Institute for Macroprudential Modeling
+
+theme:
+    name: material
+    logo: assets/gimm_m_black.png
+    font: 
+        code: "PT Mono"
+        text: "Libre Baskerville"
+    icon: 
+        repo: fontawesome/brands/github
+    palette:
+        scheme: default
+    features:
+        - navigation.tabs
+    favicon: assets/favicon.ico
+
+extra_css:
+  - stylesheets/extra.css
+
+docs_dir: source
+
+site_dir: docs
+
+
