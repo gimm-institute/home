@@ -2,7 +2,7 @@ site_name: Global Institute for Macroprudential Modeling
 
 theme:
     name: material
-    logo: assets/gimm_m_black.png
+    logo: assets/gimm_m_rgb.png
     font: 
         code: "PT Mono"
         text: "Libre Baskerville"
@@ -21,4 +21,7 @@ docs_dir: source
 
 site_dir: docs
 
+nav:
+    - Home: index.md
+    - Upcoming events: events
 
