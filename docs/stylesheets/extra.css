@@ -4,3 +4,11 @@
   --md-accent-fg-color: #ffd700;
 }
 
+.md-header {
+    color: var(--md-default-fg-color--light);
+}
+
+.md-tabs {
+    color: var(--md-default-fg-color--light);
+}
+
