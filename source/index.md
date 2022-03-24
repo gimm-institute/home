@@ -1,10 +1,15 @@
 
 # 
-![gimm](assets/gimm_m_rgb.png)
 
-Global Institute for Macroprudential Modeling is a non-profit network
+<a href=""><img src="assets/gimm_rgb.png" width="50%" align="right"></img></a>
+
+<br/>
+
+We are a non-profit network
 connecting institutions and professionals responsible for financial
 stability and macroprudential regulation.
+
+<br/>
 
 ## Our mission
 

@@ -12,6 +12,8 @@ theme:
         scheme: default
     features:
         - navigation.tabs
+        - navigation.expand
+        - navigation.indexes
     favicon: assets/favicon.ico
 
 extra_css:
@@ -28,5 +30,7 @@ markdown_extensions:
 
 nav:
     - Home: index.md
-    - Upcoming events: events
+    - Upcoming events: 
+        - events/index.md
+        - Inaugural workkshop: events/inaugural.md
 
