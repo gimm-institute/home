@@ -4,11 +4,31 @@
   --md-accent-fg-color: #ffd700;
 }
 
+
+:root > * {
+  --md-typeset-a-color: rgba(185, 159, 54, 1);
+}
+
+
 .md-header {
     color: var(--md-default-fg-color--light);
 }
 
+
+.md-header__title {
+    height: 7rem;
+}
+
+
+.md-header__topic {
+    height: 100%;
+    line-height: 7rem;
+    font-size: 1rem;
+}
+
+
 .md-tabs {
     color: var(--md-default-fg-color--light);
 }
+
 

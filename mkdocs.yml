@@ -23,14 +23,23 @@ docs_dir: source
 
 site_dir: docs
 
+repo_url: https://github.com/gimm-institute/home
+repo_name: github/gimm-institute
+
 markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 
 nav:
     - Home: index.md
     - Upcoming events: 
         - events/index.md
-        - Inaugural workkshop: events/inaugural.md
+        - Inaugural workshop: events/inaugural.md
+    - People behind:
+        - people/index.md
 
