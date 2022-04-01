@@ -70,3 +70,7 @@
     text-decoration: underline;
 }
 
+.md-content__button.md-icon {
+    display: none;
+}
+
