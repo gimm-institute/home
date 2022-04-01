@@ -1,33 +1,39 @@
 
 # 
 
-<a href=""><img src="assets/gimm_rgb.png" width="50%" align="right"></img></a>
+We are a non-profit research
+institute bringing together central banks and other institutions tasked
+with financial stability. We aim to create a platform for
+collaboration, experience sharing, and dissemination of practical,
+state-of-the-art tools for macroprudential modeling and policy analysis.
 
-<br/>
-
-We are a non-profit network
-connecting institutions and professionals responsible for financial
-stability and macroprudential regulation.
-
-
-## Our mission
-
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-> accumsan libero id ex tristique mollis. Phasellus ac scelerisque justo.
-> Morbi eget augue nec lacus tempus egestas. Suspendisse potenti. Interdum et
-> malesuada fames ac ante ipsum primis in faucibus. Phasellus sed nisi erat.
+#
 
 ## What do we do?
 
-#### :fontawesome-solid-user-group: Connecting people
+#### :fontawesome-solid-user-group:  Connecting people
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed ante eget orci dapibus vulputate. Nulla id libero dignissim, ultricies.
+> GIMM aims to provide a platform for practitioners who have to deal with
+> real-life problems on a daily basis. We aim to complement the numerous
+> existing platforms focusing research by focusing on experience-sharing,
+> connecting practitioners across different institutions, and disseminating
+> state-of-the-art tools. Our workshops will be most beneficial for experts
+> tasked with producing regular, policymakers-facing outputs: stress
+> scenarios, analysis of macroprudential interventions, and similar.
 
-#### :fontawesome-solid-cube: Building macroprudential modeling
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed ante eget orci dapibus vulputate. Nulla id libero dignissim, ultricies.
+#### :fontawesome-solid-cube:  Building macroprudential modeling
 
-#### :fontawesome-solid-chart-line: Generating global scenarios
+> The GIMM is developing a modeling framework for analysis of macro-financial
+> linkages and macroprudential policy. The framework provides two-way
+> interactions between macro and the financial system with endogenous
+> feedbacks. Following top-down model building strategy, the framework allows
+> us to look at the financial system as a whole and describe the aggregate
+> behavior, big picture interactions between macroeconomy and financial
+> sector. Flexible structure allows to analyze a wide range of
+> macroprudential policy interventions as well as impact of macroeconomic
+> scenarios on the financial sector.
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed ante eget orci dapibus vulputate. Nulla id libero dignissim, ultricies.
+#### :fontawesome-solid-chart-column:  Generating global scenarios
+
 

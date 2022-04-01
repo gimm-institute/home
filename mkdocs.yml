@@ -1,8 +1,10 @@
 site_name: Global Institute for Macroprudential Modeling
 
+site_description: GIMM helps financial stability experts and macoprudential regulators meet, share knowledge, and implement state-of-the-art macroprudential modeling tool
+
 theme:
     name: material
-    logo: assets/gimm_m_rgb.png
+    logo: assets/gimm.yog.001.png
     font: 
         code: "PT Mono"
         text: "Libre Baskerville"
@@ -15,6 +17,7 @@ theme:
         - navigation.expand
         - navigation.indexes
     favicon: assets/favicon.ico
+    custom_dir: overrides
 
 extra_css:
   - stylesheets/extra.css
@@ -23,8 +26,9 @@ docs_dir: source
 
 site_dir: docs
 
-repo_url: https://github.com/gimm-institute/home
-repo_name: github/gimm-institute
+
+repo_url: https://github.com/gimm-institute/member-zone
+repo_name: Member zone
 
 markdown_extensions:
   - pymdownx.emoji:
@@ -38,8 +42,15 @@ markdown_extensions:
 nav:
     - Home: index.md
     - Upcoming events: 
-        - events/index.md
-        - Inaugural workshop: events/inaugural.md
+        - events/inaugural.md
+        - events/fall-2022.md
+    - Our know-how:
+        - know-how/model.md
+        - know-how/scenario-building.md
+    - Global scenarios:
+        - scenarios/index.md
+        - scenarios/baseline.md
+        - scenarios/stress.md
     - People behind:
         - people/index.md
 

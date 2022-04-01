@@ -1,3 +1,3 @@
 
-## Inaugural workshop
+# Inaugural Workshop
 
