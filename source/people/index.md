@@ -25,7 +25,7 @@ title: People behind
 
 ???+ quote "Zdenek Tuma, Board of directors"
 
-    Zdenek is a former Governor of the Czech National Bank, currently working in financinal services for KPMG. He also chairs the CERGE-EI Nadace (Foundation), which supports economic education in transition and developing countries, and lectures at Charles University in Prague.
+    Zdenek is a former Governor of the Czech National Bank and currently serves as the Chairman of the Supervisory Board of the ČSOB group. He also chairs the CERGE-EI Nadace (Foundation), which supports economic education in transition and developing countries, and lectures at Charles University in Prague.
 
 
 ???+ quote "Ondrej Kamenik, Board of directors"
