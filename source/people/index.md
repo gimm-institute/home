@@ -23,9 +23,12 @@ title: People behind
     macroprudential policy. He is also the lead developer of the Iris
     Toolbox.
 
-
 ???+ quote "Zdenek Tuma, Board of directors"
+
+    Zdenek is a former Governor of the Czech National Bank, currently working in financinal services for KPMG. He also chairs the CERGE-EI Nadace (Foundation), which supports economic education in transition and developing countries, and lectures at Charles University in Prague.
 
 
 ???+ quote "Ondrej Kamenik, Board of directors"
+
+    Ondra worked as a senior economist at the International Monetary Fund’s Research Department, where he helped build the forecasting infrastructure. He was among those who developed and deployed the IMF’s Global Projection Model and Global Integrated Monetary and Fiscal Model. Ondra also worked for the Czech National Bank’s Modeling Division for several years and assisted a number of other central banks in implementing macroeconomic models and forecasting systems. Ondra is currently senior partner at OGResearch.
 
