@@ -33,7 +33,7 @@ Participation unlimited
     ---|---|---
     11:00 AM |  Keynote speech: How does international capital flow?  |  Michael Kumhof,  Bank of England Research Hub
     12:00 PM |  Guest speaker: Interactions of monetary and macroprudential policies  |  Alejandro van der Ghote, European Central Bank
-    1:00 PM CEST |  Presentation of GIMM modeling framework: What's special about macroprudential modeling? | Jaromír Beneš & Tomáš Motl,   GIMM
+    1:00 PM |  Presentation of GIMM modeling framework: What's special about macroprudential modeling? | Jaromír Beneš & Tomáš Motl,   GIMM
 
 ??? info "Wednesday, April 27"
 
@@ -41,7 +41,7 @@ Participation unlimited
     ---|---|---
     11:00 AM |  Guest speaker: Forex liquidity and credit risk issues in Armenia    | Armen Nurbekyan, Central Bank of Armenia
     12:00 PM |  Guest speaker: Sovereign debt and sovereign risk    | Daragh Clancy,   Central Bank of Ireland
-    1:00 PM CEST |  Live simulation experiments in GIMM modeling framework: Credit risk and forex risk  | Jaromír Beneš & Tomáš Motl,   GIMM
+    1:00 PM |  Live simulation experiments in GIMM modeling framework: Credit risk and forex risk  | Jaromír Beneš & Tomáš Motl,   GIMM
 
 ??? info "Thursday, April 28"
 
@@ -49,7 +49,7 @@ Participation unlimited
     ---|---|---
     11:00 AM |  Guest speaker:  Borrower-level measures for household credit in Georgia | David Utiashvili,    National Bank of Georgia
     12:00 PM |  Guest speaker: Macroprudential policy frameworks in Ukraine | Pervin Dadashova,    National Bank of Ukraine
-    1:00 PM CEST |  Live simulation experiments in GIMM modeling framework: Quantitative caps (LTV, DTI) in semi-structural models  | Jaromír Beneš & Tomáš Motl,   GIMM
+    1:00 PM |  Live simulation experiments in GIMM modeling framework: Quantitative caps (LTV, DTI) in semi-structural models  | Jaromír Beneš & Tomáš Motl,   GIMM
 
 ??? info "Friday, April 29"
 

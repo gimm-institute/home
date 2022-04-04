@@ -74,3 +74,8 @@
     display: none;
 }
 
+.md-main {
+    background-image: url("../assets/background-1171317153L1.jpg");
+    background-attachment: fixed;
+}
+
