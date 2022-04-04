@@ -3,6 +3,7 @@
 
 !!! quote "Consistency in financial stability and macroprudential policy analysis"
 
+The GIMM will hold inaugural workshop to mark the start of our public activities. The inaugural workshop has a lineup of keynote speakers and guest lecturers from around the globe, mostly practitioners from central banks delivering presentations on current topics, with the common thread of **the importance of (macro) consistency in financial stability analysis**. The lectures will be complemented by a series of practical demonstrations of modeling related issues within an applied macroprudential modeling framework.
 
 ### Logistics
 
@@ -56,5 +57,4 @@ Participation unlimited
     Time (CEST) | Event 
     ---|---
     11:00 AM |  Panel discussion: Consistency in financial stability and macroprudential analysis
-
 

@@ -15,14 +15,14 @@ state-of-the-art tools for macroprudential modeling and policy analysis.
 
 > GIMM aims to provide a platform for practitioners who have to deal with
 > real-life problems on a daily basis. We aim to complement the numerous
-> existing platforms focusing research by focusing on experience-sharing,
+> existing platforms focusing on research by focusing on experience-sharing,
 > connecting practitioners across different institutions, and disseminating
 > state-of-the-art tools. Our workshops are most beneficial for experts
 > tasked with producing regular outputs for consumption by policy makers: stress
 > scenarios, analysis of macroprudential interventions, and similar.
 
 
-#### :fontawesome-solid-cube:  Building macroprudential modeling
+#### :fontawesome-solid-cube:  Building macroprudential modeling tools
 
 > GIMM is developing a modeling framework for the analysis of
 > macro-financial linkages, financial stabilitiy, and macroprudential
@@ -36,5 +36,4 @@ state-of-the-art tools for macroprudential modeling and policy analysis.
 > impact of macroeconomic scenarios on the financial sector.
 
 #### :fontawesome-solid-chart-column:  Generating global scenarios
-
 
