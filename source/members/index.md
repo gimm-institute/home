@@ -18,9 +18,9 @@ research and academic institutes and universities, and international organizatio
 membership fee derives from the World Bank income classification of
 your country, and is raised to cover the cost of running GIMM.
 
-GIMM members have free access to
+GIMM members have access to
 
-> :fontawesome-solid-calendar-check:  GIMM events, such as workshops and seminars
+> :fontawesome-solid-calendar-check:  All GIMM events, such as workshops and seminars
 > 
 > :fontawesome-solid-comment-dots:  GIMM forum for discussing policy and modeling issues, exchanging data, and commenting economic and financial events
 > 
