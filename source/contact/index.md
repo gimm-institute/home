@@ -6,7 +6,11 @@ title: Contact
 
 ## :fontawesome-solid-at: Email
 
-### `info AT gimm DOT institute`
+<SCRIPT LANGUAGE="JavaScript">user = 'info';site = 'gimm'; dot_site =
+'institute';document.write('<a href=\"mailto:' + user +
+String.fromCharCode(64) + site + '.' + dot_site +
+'\">');document.write(user + String.fromCharCode(64) + site + '.' +
+dot_site + '</a>');</SCRIPT>
 
 ## :fontawesome-solid-envelope: Snail mail
 

@@ -1,5 +1,5 @@
 
-# 
+# About us
 
 We are a non-profit research
 institute bringing together central banks and other institutions tasked
@@ -7,9 +7,7 @@ with financial stability. We aim to create a platform for
 collaboration, experience sharing, and dissemination of practical,
 state-of-the-art tools for macroprudential modeling and policy analysis.
 
-#
-
-## What do we do?
+# 
 
 #### :fontawesome-solid-user-group:  Connecting people
 
@@ -24,7 +22,7 @@ state-of-the-art tools for macroprudential modeling and policy analysis.
 
 #### :fontawesome-solid-cube:  Building macroprudential modeling tools
 
-> GIMM is developing a modeling framework for the analysis of
+> GIMM has developed a modeling framework for the analysis of
 > macro-financial linkages, financial stabilitiy, and macroprudential
 > policy. The framework provides two-way interactions between macro and the
 > financial system with endogenous feedbacks. Following a top-down model
@@ -37,7 +35,7 @@ state-of-the-art tools for macroprudential modeling and policy analysis.
 
 #### :fontawesome-solid-chart-column:  Generating global scenarios
 
-> GIMM is developing a semi-structural multi-area model framework for a regular
+> GIMM is constructing a semi-structural multi-area model framework for a regular
 > production and dissemination of scenarios of global macroeconomic and
 > financial stress. The framework is designed to maintain a good balance
 > between solid theoretical consistency and empirical relevance.

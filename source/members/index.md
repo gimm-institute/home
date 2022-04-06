@@ -4,7 +4,12 @@ title: Membership
 
 # :fontawesome-solid-user-lock: Membership
 
-Contact us at **`info AT gimm DOT institute`** for details on membership
+:fontawesome-solid-envelope: Contact us at <SCRIPT LANGUAGE="JavaScript">user = 'info';site = 'gimm';
+dot_site =
+'institute';document.write('<a href=\"mailto:' + user +
+String.fromCharCode(64) + site + '.' + dot_site +
+'\">');document.write(user + String.fromCharCode(64) + site + '.' +
+dot_site + '</a>');</SCRIPT> for details on membership
 
 The membership in the Global Institute for
 Macroprudential Modeling is intended mainly for government departments, public
@@ -15,15 +20,15 @@ your country, and is raised to cover the cost of running GIMM.
 
 GIMM members have free access to
 
-:fontawesome-solid-calendar-check:  GIMM events, such as workshops and seminars
-
-:fontawesome-solid-comment-dots:  GIMM forum for discussing policy and modeling issues, exchanging data, and commenting economic and financial events
-
-:fontawesome-solid-chart-column:  Global scenarios of macroeconomic and macrofinanciall stress generated
-  and presented twice a year
-
-:fontawesome-solid-cube:  Model and data analysis frameworks implemented in Matlab
-
-:fontawesome-solid-compass-drafting:  Assistance in designing and implementing model-based frameworks in
-  their own institution
+> :fontawesome-solid-calendar-check:  GIMM events, such as workshops and seminars
+> 
+> :fontawesome-solid-comment-dots:  GIMM forum for discussing policy and modeling issues, exchanging data, and commenting economic and financial events
+> 
+> :fontawesome-solid-chart-column:  Global scenarios of macroeconomic and macrofinanciall stress generated
+> and presented twice a year
+> 
+> :fontawesome-solid-cube:  Model and data analysis frameworks implemented in Matlab
+> 
+> :fontawesome-solid-compass-drafting:  Assistance in designing and implementing model-based frameworks in
+> their own institution
 
