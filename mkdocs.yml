@@ -41,10 +41,12 @@ markdown_extensions:
 
 nav:
     - Home: index.md
+    - Membership: 
+        - members/index.md
     - Upcoming events: 
         - events/inaugural.md
         - events/fall-2022.md
-    - Our know-how:
+    - Know-how:
         - know-how/model.md
         - know-how/scenario-building.md
     - Global scenarios:
@@ -53,4 +55,6 @@ nav:
         - scenarios/stress.md
     - People behind:
         - people/index.md
+    - Contact:
+        - contact/index.md
 

@@ -79,3 +79,7 @@
     background-attachment: fixed;
 }
 
+div.md-sidebar--secondary ul.md-nav__list li.md-nav__item li.md-nav__item {
+    display: none;
+}
+

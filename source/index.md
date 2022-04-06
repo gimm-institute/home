@@ -37,3 +37,8 @@ state-of-the-art tools for macroprudential modeling and policy analysis.
 
 #### :fontawesome-solid-chart-column:  Generating global scenarios
 
+> GIMM is developing a semi-structural multi-area model framework for a regular
+> production and dissemination of scenarios of global macroeconomic and
+> financial stress. The framework is designed to maintain a good balance
+> between solid theoretical consistency and empirical relevance.
+

@@ -1,22 +1,27 @@
 
 # Inaugural Workshop
 
-!!! quote "Consistency in financial stability and macroprudential policy analysis"
+!!! quote "Consistency in financial stability analysis nd macroprudential policy making"
 
-The GIMM will hold inaugural workshop to mark the start of our public activities. The inaugural workshop has a lineup of keynote speakers and guest lecturers from around the globe, mostly practitioners from central banks delivering presentations on current topics, with the common thread of **the importance of (macro) consistency in financial stability analysis**. The lectures will be complemented by a series of practical demonstrations of modeling related issues within an applied macroprudential modeling framework.
+The GIMM holds its inaugural workshop to mark the start of our public
+activities. The inaugural workshop has a lineup of keynote speakers and
+guest lecturers from around the globe, mostly practitioners from central
+banks delivering presentations on current topics, with the common thread of
+**the importance of (macro) consistency in financial stability analysis and
+macroprudential policy making**.
+The lectures will be complemented by a series of practical demonstrations
+of modeling related issues within an applied macroprudential modeling
+framework.
+
+[Register for the workshop](https://forms.monday.com/forms/6202e2579e4546285000fcd122eb1e88?r=use1)
 
 ### Logistics
 
-
 Dates: April 25 to April 29, 2022
 
-Place: Online event
+Place: Online event, a Zoom link will be distributed to registered participants
 
-Charge: Free of charge
-
-Participation unlimited
-
-[Registration form](https://forms.monday.com/forms/6202e2579e4546285000fcd122eb1e88?r=use1)
+Charge: Free of charge, participation unlimited
 
 ### Preliminary program
 
