@@ -9,7 +9,7 @@ dot_site =
 'institute';document.write('<a href=\"mailto:' + user +
 String.fromCharCode(64) + site + '.' + dot_site +
 '\">');document.write(user + String.fromCharCode(64) + site + '.' +
-dot_site + '</a>');</SCRIPT> for details on membership
+dot_site + '</a>');</SCRIPT> for inquires about membership
 
 The membership in the Global Institute for
 Macroprudential Modeling is intended mainly for government departments, public
