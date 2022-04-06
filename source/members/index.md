@@ -4,7 +4,7 @@ title: Membership
 
 # :fontawesome-solid-user-lock: Membership
 
-[Inquire about GIMM membership through our online form](https://forms.monday.com/forms/1fd159b3a6facc70be45cb2f9172f1b2?r=use1)
+[Inquire about GIMM membership via our online form](https://forms.monday.com/forms/1fd159b3a6facc70be45cb2f9172f1b2?r=use1)
 
 The membership in the Global Institute for
 Macroprudential Modeling is intended mainly for government departments, public
