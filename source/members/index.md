@@ -13,7 +13,7 @@ dot_site + '</a>');</SCRIPT> for details on membership
 
 The membership in the Global Institute for
 Macroprudential Modeling is intended mainly for government departments, public
-policy institutions and regulatory autorities (such as central banks, financial stability boards, and treasuries),
+policy institutions and regulatory authorities (such as central banks, financial stability boards, and treasuries),
 research and academic institutes and universities, and international organizations. The
 membership fee derives from the World Bank income classification of
 your country, and is raised to cover the cost of running GIMM.
