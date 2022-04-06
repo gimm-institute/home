@@ -4,12 +4,7 @@ title: Membership
 
 # :fontawesome-solid-user-lock: Membership
 
-:fontawesome-solid-envelope: Contact us at <SCRIPT LANGUAGE="JavaScript">user = 'info';site = 'gimm';
-dot_site =
-'institute';document.write('<a href=\"mailto:' + user +
-String.fromCharCode(64) + site + '.' + dot_site +
-'\">');document.write(user + String.fromCharCode(64) + site + '.' +
-dot_site + '</a>');</SCRIPT> for inquires about membership
+[Inquire about GIMM membership through our online form](https://forms.monday.com/forms/1fd159b3a6facc70be45cb2f9172f1b2?r=use1)
 
 The membership in the Global Institute for
 Macroprudential Modeling is intended mainly for government departments, public
