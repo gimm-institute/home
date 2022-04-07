@@ -17,20 +17,20 @@ title: People behind
 
 ??? quote "Jaromir Benes, Board of directors and Developer"
 
-    Jaromir has worked for, and collaborated with, a number of central
-    banks and international institutions (including the IMF, the Reserve
-    Bank of New Zealand and the Czech National Bank), either full time or
-    as an IMF technical assistance expert, heling them implement analytical
-    and forecasting frameworks and processes for monetary and
-    macroprudential policy. He is also the lead developer of the Iris
-    Toolbox.
+    In the last two decades of his professional career, Jaromir has worked
+    for, and collaborated with, a number of central banks and international
+    institutions (including the IMF, the Reserve Bank of New Zealand and
+    the Czech National Bank), helping them implement analytical and forecasting
+    frameworks and processes to support monetary and macroprudential policy. He is
+    also the lead developer of the Iris Toolbox.
 
 ??? quote "Zdenek Tuma, Board of directors"
 
-    Zdenek is currently the Chairman of the Supervisory Board of the ČSOB
-    group, while also chairing the CERGE-EI Foundation, which supports
-    economic education in transition and developing countries. He lectures
-    at the Charles University in Prague.
+    Zdenek is Chairman of Supervisory Board of CSOB (KBC Group), member of
+    Presidium of the Czech Banking Association, associate professor at
+    Charles University, member of the Board of Directors of Global
+    Institute for Macroprudential Modeling, former President of the Czech
+    Economic Association.
 
 
 ??? quote "Ondrej Kamenik, Board of directors"
