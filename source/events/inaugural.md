@@ -13,6 +13,8 @@ The lectures will be complemented by a series of practical demonstrations
 of modeling related issues within an applied macroprudential modeling
 framework.
 
+### Registration
+
 [Register for the workshop](https://forms.monday.com/forms/6202e2579e4546285000fcd122eb1e88?r=use1)
 
 ### Logistics
@@ -23,7 +25,7 @@ Place: Online event, a Zoom link will be distributed to registered participants
 
 Charge: Free of charge, participation unlimited
 
-### Preliminary program
+### Program
 
 ??? info "Monday, April 25"
 
