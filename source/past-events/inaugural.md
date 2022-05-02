@@ -1,5 +1,8 @@
+--- 
+title: Inaugural Workshop
+---
 
-# Inaugural Workshop
+# :fontawesome-solid-database: Inaugural Workshop 
 
 !!! quote "Consistency in financial stability analysis nd macroprudential policy making"
 
