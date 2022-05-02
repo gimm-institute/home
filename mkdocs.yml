@@ -49,8 +49,9 @@ nav:
     - Membership: 
         - members/index.md
     - Upcoming events: 
-        - events/inaugural.md
-        - events/fall-2022.md
+        - upcoming-events/fall-2022.md
+    - Past events: 
+        - past-events/inaugural.md
     - Know-how:
         - know-how/model.md
         - know-how/scenario-building.md
