@@ -1,12 +1,12 @@
 
 :root {
   --md-primary-fg-color: #ffd700;
-  --md-accent-fg-color: rgba(185, 159, 54, 1);
+  --md-accent-fg-color: rgba(167, 143, 48, 1);
 }
 
 
 :root > * {
-  --md-typeset-a-color: rgba(185, 159, 54, 1);
+  --md-typeset-a-color: rgba(167, 143, 48, 1);
 }
 
 
@@ -16,7 +16,7 @@
 
 
 .md-header__title {
-    height: 5rem;
+    height: 9rem;
 }
 
 .md-header__topic {
@@ -25,13 +25,25 @@
 }
 
 .md-header__topic.scrolled {
-    margin-top: 1.8rem;
+    margin-top: 4rem;
     line-height: 1.5rem;
 }
 
 .md-header__button.md-logo :-webkit-any(img, svg) {
     height: 2.5rem;
 }
+
+.md-header__source {
+    width: 15rem;
+    max-width: 15rem;
+    text-align: right;
+}
+
+.md-header__source a {
+    display: inline;
+    margin-left: 1rem;
+}
+
 /*
 .md-header__title p {
     margin-block-end: 0px;

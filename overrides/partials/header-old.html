@@ -7,18 +7,19 @@
 {% endif %}
 <header class="{{ class }}" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="{{ lang.t('header.title') }}">
-      <!--
     <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}" title="{{ config.site_name | e }}" class="md-header__button md-logo" aria-label="{{ config.site_name }}" data-md-component="logo">
       {% include "partials/logo.html" %}
     </a>
-      -->
     <label class="md-header__button md-icon" for="__drawer">
     </label>
     <div class="md-header__title" data-md-component="header-title">
       <div class="md-header__ellipsis">
         <div class="md-header__topic">
     <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}" title="{{ config.site_name | e }}" aria-label="{{ config.site_name }}" data-md-component="logo">
-        <img src="{{ config.theme.logo | url}}" alt="logo" height="80%"></img>
+            <div>
+                <div><span class="md-header__ellipsis">Global Institute</span></div>
+                <div><span class="md-header__ellipsis"><span class="md-header__italic">for</span> Macroprudential Modeling</span></div>
+            </div>
     </a>
         </div>
         <div class="md-header__topic scrolled" data-md-component="header-topic">
@@ -73,9 +74,11 @@
       </label>
       {% include "partials/search.html" %}
     {% endif %}
-    <div class="md-header__source">
-      {% include "partials/source.html" %}
-    </div>
+    {% if config.repo_url %}
+      <div class="md-header__source">
+        {% include "partials/source.html" %}
+      </div>
+    {% endif %}
   </nav>
   {% if "navigation.tabs.sticky" in features %}
     {% if "navigation.tabs" in features %}

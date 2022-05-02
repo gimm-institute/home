@@ -1,0 +1,21 @@
+{#-
+  This file was automatically generated - do not edit
+-#}
+<a href="{{ config.extra.public_repo_url }}" title="{{ lang.t('source.link.title') }}" class="md-source" data-md-component="source">
+  <span class="md-source__icon md-icon">
+    {% set icon = config.extra.public_repo_icon or "fontawesome/brands/git-alt" %}
+    {% include ".icons/" ~ icon ~ ".svg" %}
+  </span>
+  <span class="md-source__repository">
+      {{ config.extra.public_repo_name }}
+  </span>
+</a>
+<a href="{{ config.extra.member_repo_url }}" title="{{ lang.t('source.link.title') }}" class="md-source" data-md-component="source">
+  <span class="md-source__icon md-icon">
+    {% set icon = config.extra.member_repo_icon or "fontawesome/brands/git-alt" %}
+    {% include ".icons/" ~ icon ~ ".svg" %}
+  </span>
+  <span class="md-source__repository">
+    {{ config.extra.member_repo_name }}
+  </span>
+</a>

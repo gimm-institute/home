@@ -4,12 +4,11 @@ site_description: GIMM helps financial stability experts and macoprudential regu
 
 theme:
     name: material
-    logo: assets/gimm.yog.001.png
+    logo: assets/gimm-alt.png
     font: 
         code: "PT Mono"
         text: "Libre Baskerville"
     icon: 
-        repo: fontawesome/brands/github
     palette:
         scheme: default
     features:
@@ -27,8 +26,14 @@ docs_dir: source
 site_dir: docs
 
 
-repo_url: https://github.com/gimm-institute/member-zone
-repo_name: Member zone
+extra:
+    public_repo_url: https://github.com/gimm-institute/public-zone
+    public_repo_name: Public zone
+    public_repo_icon: fontawesome/brands/github
+    member_repo_url: https://github.com/gimm-institute/member-zone
+    member_repo_name: Member zone
+    member_repo_icon: fontawesome/brands/github-square
+
 
 markdown_extensions:
   - pymdownx.emoji:
