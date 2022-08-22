@@ -10,7 +10,7 @@ theme:
         text: "Libre Baskerville"
     icon: 
     palette:
-        scheme: default
+        scheme: gimm
     features:
         - navigation.tabs
         - navigation.expand
@@ -21,8 +21,10 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
-docs_dir: source
 
+
+use_directory_urls: false
+docs_dir: source
 site_dir: docs
 
 

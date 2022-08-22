@@ -1,5 +1,5 @@
 
-:root {
+:root, [data-md-color-scheme=default] {
   --md-primary-fg-color: #ffd700;
   --md-accent-fg-color: rgba(167, 143, 48, 1);
 }
